@@ -1,0 +1,16 @@
+{
+    "name": "payro24/cf7",
+    "description": "payro24 for Contact Form 7",
+    "authors": [
+        {
+            "name": "Payro Service",
+            "email": "payro.service@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "payro24\\CF7\\" : "includes/"
+        }
+    }
+}
